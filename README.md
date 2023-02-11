@@ -2,6 +2,7 @@
 
 ### Theme : Ecommerce embroidery website
 ### Team : Lemsyeh Maryam, Elidrissi Najwa, Tazi Jad
+#### A video demonstration is attached to the repository
 
 ## Home Page :
 ![Accueil 1](https://user-images.githubusercontent.com/105390951/218284192-38a0c6c4-d3eb-437a-928e-81fe85de0e8d.PNG)
